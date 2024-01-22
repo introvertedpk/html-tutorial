@@ -1,0 +1,14 @@
+.one{
+    border: solid black 2px;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    left:400px;
+    top: 50px;
+}
